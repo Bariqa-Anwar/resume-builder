@@ -1,0 +1,128 @@
+.head-div{
+    background-color: rgb(70, 14, 70);
+    height: 110px;
+    width: 245px;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(75, 23, 75);
+    zoom: 90%;
+    margin-top: -8.5rem;
+}
+.main-heading{
+    color: white;
+    margin-left: 5.9rem;
+    font-weight:bolder;
+    padding-top: 1.5rem;
+    font-size: x-large;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+.head-para{
+    margin-left: 6rem;
+    color: white;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: -0.75rem;
+    font-size: large;
+}
+.headings{
+    margin-top: 3rem;
+    font-weight: 900;
+    border-radius: 4px;
+    box-shadow: 0 0 30px rgb(224, 194, 194);
+    height: 30px;
+    padding-top: 0.3rem;
+    font-size: x-large;
+    padding-left: 1rem;
+    width: 275px;
+    color: rgb(70, 14, 70);
+}
+.info-name{
+    color: rgb(70, 14, 70);
+    font-weight:normal;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 3rem;
+    margin-top: 1.9rem;
+}
+.info-number{
+    color: rgb(70, 14, 70);
+    font-weight:normal;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 3rem;
+    margin-top: -1.2rem;
+    font-style: italic;
+    margin-bottom: -0.02rem;
+}
+.info-mail{
+    color: rgb(70, 14, 70);
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 3rem;
+    text-decoration:none;
+}
+.info-linkedin{
+    color: rgb(70, 14, 70);
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 3rem;
+    text-decoration:none;
+}
+.education{
+    color: rgb(70, 14, 70);
+    font-weight:normal;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    }
+#skillsHeading{
+    margin-top: 3rem;
+    font-weight: 900;
+    border-radius: 4px;
+    box-shadow: 0 0 30px rgb(224, 194, 194);
+    height: 30px;
+    padding-top: 0.3rem;
+    font-size: x-large;
+    padding-left: 1rem;
+    width: 275px;
+    color: rgb(70, 14, 70);
+}    
+.list{
+    color:rgb(70, 14, 70);
+    font-size: small;
+    font-style: italic;
+    font-weight: 600;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+}
+.career-para{
+    font-size: small;
+    color: rgb(70, 14, 70);
+    font-style: italic;
+    margin-left: 1.8rem;
+    margin-right: 1rem;
+}
+#skillsButton{
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgb(175, 36, 175);
+    background-color: rgb(70, 14, 70);
+    color: white;
+    height: 30px;
+    width: 100px;
+    font-size: x-small;
+    margin-top: 2rem;
+    margin-left: 11.5rem;
+}
+#skillsButton:hover {
+    background-color: rgb(126, 26, 126);
+
+}
